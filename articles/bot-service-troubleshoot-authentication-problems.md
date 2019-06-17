@@ -28,7 +28,7 @@ If you have not yet done so, [deploy your bot to azure](~/bot-builder-howto-depl
 ## Step 1: Disable security and test on localhost
 
 In this step, you will verify that your bot is accessible and functional on localhost when security is disabled. 
-
+ 
 > [!WARNING]
 > Disabling security for your bot may allow unknown attackers to impersonate users. Only implement the following procedure if you are operating in a protected debugging environment.
 
